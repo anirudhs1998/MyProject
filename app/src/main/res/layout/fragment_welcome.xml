@@ -5,7 +5,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/text_welcome"
+        android:id="@+id/myText"
         android:text="@string/welcome_info"
         android:textSize="20sp"/>
 
